@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\bin\Debug\net6.0\CshaarpBasic.exe
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\bin\Debug\net6.0\CshaarpBasic.deps.json
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\bin\Debug\net6.0\CshaarpBasic.runtimeconfig.json
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\bin\Debug\net6.0\CshaarpBasic.dll
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\bin\Debug\net6.0\CshaarpBasic.pdb
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\obj\Debug\net6.0\CshaarpBasic.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\obj\Debug\net6.0\CshaarpBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\obj\Debug\net6.0\CshaarpBasic.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\obj\Debug\net6.0\CshaarpBasic.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\obj\Debug\net6.0\CshaarpBasic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\obj\Debug\net6.0\CshaarpBasic.dll
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\obj\Debug\net6.0\refint\CshaarpBasic.dll
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\obj\Debug\net6.0\CshaarpBasic.pdb
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\obj\Debug\net6.0\CshaarpBasic.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\c-_basic\CshaarpBasic\CshaarpBasic\obj\Debug\net6.0\ref\CshaarpBasic.dll
