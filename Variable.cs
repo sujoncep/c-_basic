@@ -2,9 +2,8 @@
 
 public class Variable
 {
-	public void variable()
+	public void tostring()
 	{
-
 		Console.WriteLine("This is a new class");
 	}
 }
